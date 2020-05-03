@@ -2,9 +2,9 @@
 
 ## How to setup this project
 
-Create a directory, for example `sapper-app`
+Create a directory, for example `svelte-app`
 
-Clone this repo and and place under `sapper-app` directory
+Clone this repo and and place under `svelte-app` directory
 
 Change directory 
 ```
